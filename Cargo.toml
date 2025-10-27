@@ -8,5 +8,5 @@ documentation = "https://docs.rs/vecmate/"
 readme = "README.md"
 repository = "https://github.com/Ztry8/VecMate"
 license = "BSD-3-Clause"
-keywords = ["vector", "gamedev", "math", "geometry", "linear-algebra", "2d","generic"]
+keywords = ["vector", "gamedev", "math", "geometry", "linear-algebra"]
 categories = ["game-development", "mathematics", "data-structures"]
