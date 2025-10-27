@@ -13,7 +13,7 @@ println!("New position: {position}");
 ```
 
 ## Why?
-
+I didn't find any similar libraries, so I decided to create my own!   
 
 ## Contributing
 Any pull-requests and issues are welcome!   
