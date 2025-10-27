@@ -18,7 +18,18 @@ println!("New position: {position}");
 
 ## Why?
 I didn't find any simple libraries for vector mathematics, so I decided to write my own!   
-VecMate is focused on minimalism and clear API
+VecMate is focused on minimalism and clarity
+
+## [Installation](https://crates.io/crates/vecmate)
+Run in a project root:
+```
+cargo add vecmate
+```   
+Or add it manually to your Cargo.toml:
+```
+[dependencies]
+vecmate = "*"
+```
 
 ## Contributing
 Any pull-requests and issues are welcome!   
