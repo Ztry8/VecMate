@@ -1,5 +1,5 @@
 # VecMate
-[![GitHub last commit](https://img.shields.io/github/last-commit/ztry8/vecmate)](https://github.com/ztry8/vecmate/commits)
+[![GitHub last commit](https://img.shields.io/github/last-commit/ztry8/vecmate)](https://github.com/ztry8/vecmate)
 [![crates.io](https://img.shields.io/crates/v/vecmate)](https://crates.io/crates/vecmate)
 [![docs.rs](https://img.shields.io/docsrs/vecmate)](https://docs.rs/vecmate)
 [![License](https://img.shields.io/github/license/ztry8/vecmate)](https://github.com/ztry8/vecmate/blob/main/LICENSE)
