@@ -1,4 +1,7 @@
 # VecMate
+[![crates.io](https://img.shields.io/crates/v/vecmate)](https://crates.io/crates/vecmate)
+[![docs.rs](https://img.shields.io/docsrs/vecmate)](https://docs.rs/vecmate)
+[![License](https://img.shields.io/github/license/ztry8/vecmate)](https://github.com/ztry8/vecmate/blob/main/LICENSE)
 ## Lightweight, zero-dependency, type-agnostic library for vector math.   
 ```rust
 let mut position = consts::f32::ZERO;
@@ -13,7 +16,8 @@ println!("New position: {position}");
 ```
 
 ## Why?
-I didn't find any similar libraries, so I decided to create my own!   
+I didn't find any simple libraries for vector mathematics, so I decided to write my own!   
+VecMate is focused on minimalism and clear API
 
 ## Contributing
 Any pull-requests and issues are welcome!   
