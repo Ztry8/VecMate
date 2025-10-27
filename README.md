@@ -9,7 +9,7 @@ let mut position = consts::f32::ZERO;
 let target = vec2(10.0, 5.0);
 let speed = 2.0;
 
-let direction = (target - position).normalized();
+let direction = (target - position).normalize();
 position += direction * speed;
 
 println!("Moving towards {target}");
