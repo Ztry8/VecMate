@@ -1,0 +1,12 @@
+[package]
+name = "vecmate"
+version = "0.1.0"
+authors = ["Ztry8 (AslanD)"]
+edition = "2024"
+description = "Lightweight, zero-dependency, type-agnostic library for vector math."
+documentation = ""
+readme = "README.md"
+repository = "https://github.com/Ztry8/VecMate"
+license = "BSD-3-Clause"
+keywords = ["vector", "gamedev", "math", "geometry", "linear-algebra", "2d","generic"]
+categories = ["game-development", "mathematics", "data-structures"]
