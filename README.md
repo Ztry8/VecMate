@@ -20,7 +20,7 @@ println!("New position: {position}");
 I didn't find any simple libraries for vector mathematics, so I decided to write my own!   
 VecMate is focused on minimalism and clarity
 
-## [Installation](https://crates.io/crates/vecmate)
+## Installation
 Run in a project root:
 ```
 cargo add vecmate
