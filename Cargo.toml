@@ -1,6 +1,6 @@
 [package]
 name = "vecmate"
-version = "0.2.0"
+version = "0.2.1"
 authors = ["Ztry8 (AslanD)"]
 edition = "2024"
 description = "Lightweight, zero-dependency, type-agnostic library for vector math."
