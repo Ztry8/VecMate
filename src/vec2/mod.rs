@@ -33,10 +33,9 @@ where
     }
 
     /// Normalize the current vector
-    pub fn normalize(&mut self) {
+    pub fn normalize(&mut self) -> T {
         let len = self.length();
-        self.x /= len;
-        self.y /= len;
+        vec2(self.x / len, self.y / len);
     }
 
     /// Returns distance between two vectors
