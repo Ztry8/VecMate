@@ -57,6 +57,11 @@ where
         (self.x * rhs.x) + (self.y * rhs.y)
     }
 
+    /// Returns cross product of two vectors
+    pub fn cross(&self, rhs: &Self) -> T {
+        self.x * rhs.y - self.y * rhs.x
+    }
+
     // Returns manhattan distance between two vectors
     // pub fn manhattan_distance(&self, rhs: &Self) -> T {
     //     (self.x - rhs.x)
