@@ -33,7 +33,7 @@ where
     }
 
     /// Normalize the current vector
-    pub fn normalize(&mut self) -> T {
+    pub fn normalize(&self) -> Self {
         let len = self.length();
         vec2(self.x / len, self.y / len);
     }
