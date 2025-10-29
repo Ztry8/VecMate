@@ -29,7 +29,7 @@ where
 {
     /// Returns vector's length
     pub fn length(&self) -> S {
-        (self.x * self.x + self.y + self.y).sqrt()
+        (self.x * self.x + self.y * self.y).sqrt()
     }
 
     /// Normalize the current vector
