@@ -35,7 +35,7 @@ where
     /// Normalize the current vector
     pub fn normalize(&self) -> Self {
         let len = self.length();
-        vec2(self.x / len, self.y / len);
+        vec2(self.x / len, self.y / len)
     }
 
     /// Returns distance between two vectors
